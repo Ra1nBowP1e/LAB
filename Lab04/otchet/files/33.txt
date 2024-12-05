@@ -1,0 +1,132 @@
+    PID TTY          TIME CMD
+   1298 ?        00:00:01 systemd
+   1299 ?        00:00:00 (sd-pam)
+   1308 ?        00:00:00 pipewire
+   1311 ?        00:00:00 pipewire
+   1312 ?        00:00:00 wireplumber
+   1313 ?        00:00:00 pipewire-pulse
+   1314 ?        00:00:00 gnome-keyring-d
+   1315 ?        00:00:01 dbus-daemon
+   1338 ?        00:00:00 xfce4-session
+   1474 ?        00:00:00 VBoxClient
+   1475 ?        00:00:00 VBoxClient
+   1490 ?        00:00:00 VBoxClient
+   1492 ?        00:00:00 VBoxClient
+   1499 ?        00:00:00 VBoxClient
+   1500 ?        00:00:02 VBoxClient
+   1508 ?        00:00:00 VBoxClient
+   1509 ?        00:00:00 VBoxClient
+   1603 ?        00:00:00 gvfsd
+   1609 ?        00:00:00 gvfsd-fuse
+   1615 ?        00:00:00 at-spi-bus-laun
+   1625 ?        00:00:00 dbus-daemon
+   1633 ?        00:00:00 at-spi2-registr
+   1641 ?        00:00:00 ssh-agent
+   1650 ?        00:00:00 gpg-agent
+   1653 ?        00:00:11 xfwm4
+   1659 ?        00:00:00 xfsettingsd
+   1663 ?        00:00:03 xfce4-panel
+   1668 ?        00:00:03 Thunar
+   1674 ?        00:00:00 xfdesktop
+   1675 ?        00:00:00 panel-1-whisker
+   1676 ?        00:00:00 panel-8-systray
+   1677 ?        00:00:02 panel-9-notific
+   1682 ?        00:00:00 panel-10-xapp-s
+   1685 ?        00:00:00 panel-11-power-
+   1686 ?        00:00:00 panel-12-pulsea
+   1709 ?        00:00:00 dconf-service
+   1717 ?        00:00:00 dunst
+   1733 ?        00:00:00 light-locker
+   1734 ?        00:00:00 xfce4-power-man
+   1748 ?        00:00:00 gvfs-udisks2-vo
+   1757 ?        00:00:04 mintreport-tray
+   1758 ?        00:00:00 gvfs-gphoto2-vo
+   1763 ?        00:00:00 evolution-alarm
+   1767 ?        00:00:00 gvfs-mtp-volume
+   1776 ?        00:00:00 gvfs-goa-volume
+   1778 ?        00:00:00 applet.py
+   1783 ?        00:00:00 goa-daemon
+   1784 ?        00:00:00 polkit-gnome-au
+   1790 ?        00:00:00 agent
+   1794 ?        00:00:00 goa-identity-se
+   1802 ?        00:00:00 gvfs-afc-volume
+   1803 ?        00:00:00 xiccd
+   1819 ?        00:00:00 blueman-applet
+   1824 ?        00:00:00 nm-applet
+   1949 ?        00:00:00 evolution-sourc
+   1973 ?        00:00:00 evolution-calen
+   1983 ?        00:00:00 evolution-addre
+   2017 ?        00:00:00 mintUpdate
+   2018 ?        00:00:00 obexd
+   2088 ?        00:03:22 firefox-bin
+   2133 ?        00:00:00 Socket Process
+   2138 ?        00:00:00 xdg-desktop-por
+   2147 ?        00:00:00 xdg-document-po
+   2154 ?        00:00:00 xdg-permission-
+   2166 ?        00:00:00 xdg-desktop-por
+   2175 ?        00:00:00 xdg-desktop-por
+   2183 ?        00:00:01 Privileged Cont
+   2230 ?        00:00:00 WebExtensions
+   2293 ?        00:00:05 Utility Process
+   2303 ?        00:01:24 Isolated Web Co
+   2324 ?        00:00:04 Isolated Web Co
+   2441 ?        00:00:05 RDD Process
+   2622 ?        00:00:00 gvfsd-metadata
+   2686 ?        00:00:00 gvfsd-trash
+   2704 ?        00:00:03 code
+   2708 ?        00:00:00 code
+   2709 ?        00:00:00 code
+   2711 ?        00:00:00 code
+   2730 ?        00:00:00 chrome_crashpad
+   2744 ?        00:00:03 code
+   2749 ?        00:00:00 code
+   2770 ?        00:00:14 code
+   2794 ?        00:00:02 code
+   2805 ?        00:00:01 code
+   2806 ?        00:00:00 code
+   2857 ?        00:00:00 code
+   3308 ?        00:00:00 speech-dispatch
+   3320 ?        00:00:00 sd_espeak-ng-mb
+   3333 ?        00:00:00 sd_espeak-ng
+   3360 ?        00:00:00 sd_dummy
+   3363 ?        00:00:00 sd_openjtalk
+   4604 ?        00:00:01 xfce4-terminal
+   4610 pts/0    00:00:01 zsh
+   4618 pts/0    00:00:00 zsh
+   4628 pts/0    00:00:00 zsh
+   4630 pts/0    00:00:00 zsh
+   4631 pts/0    00:00:00 gitstatusd-linu
+   4808 ?        00:00:00 Isolated Web Co
+   4921 ?        00:00:07 Isolated Web Co
+   5023 ?        00:00:05 Isolated Web Co
+   5089 ?        00:00:05 file:// Content
+   5170 ?        00:00:01 Isolated Web Co
+   5209 ?        00:00:01 Isolated Web Co
+   5353 ?        00:00:04 Isolated Web Co
+   6506 ?        00:00:04 Isolated Web Co
+   6529 ?        00:00:00 Isolated Web Co
+   6532 ?        00:00:00 Isolated Servic
+   6654 ?        00:00:07 Isolated Web Co
+   7044 ?        00:00:02 Isolated Web Co
+   7091 ?        00:00:03 Isolated Web Co
+   7145 ?        00:00:00 xfconfd
+   7561 ?        00:00:02 Isolated Web Co
+   7608 ?        00:00:00 Isolated Web Co
+   7611 ?        00:00:00 Isolated Web Co
+   7615 ?        00:00:00 Isolated Web Co
+   7701 ?        00:00:00 Isolated Web Co
+   7718 ?        00:00:00 Isolated Web Co
+   7735 ?        00:00:00 Isolated Web Co
+   7749 ?        00:00:00 Isolated Web Co
+   7776 ?        00:00:00 Isolated Web Co
+   7784 ?        00:00:00 Isolated Web Co
+   7837 ?        00:00:00 Isolated Web Co
+   7847 ?        00:00:00 Isolated Web Co
+   7877 ?        00:00:00 Isolated Web Co
+   7882 ?        00:00:00 Isolated Web Co
+   7920 ?        00:00:00 Isolated Web Co
+   8141 ?        00:00:00 Isolated Web Co
+   8323 ?        00:00:00 Web Content
+   8347 ?        00:00:00 Web Content
+   8441 ?        00:00:00 Web Content
+   8683 pts/0    00:00:00 ps

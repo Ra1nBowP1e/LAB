@@ -1,0 +1,15 @@
+/home/sikoravv/Videos
+/home/sikoravv/.vscode/cli
+/home/sikoravv/Public
+/home/sikoravv/otchet.md
+/home/sikoravv/Music
+/home/sikoravv/.sudo_as_admin_successful
+/home/sikoravv/.cache/obexd
+/home/sikoravv/.gnupg/private-keys-v1.d
+/home/sikoravv/Github repository
+/home/sikoravv/.mozilla/extensions
+/home/sikoravv/Templates
+/home/sikoravv/.config/xviewer
+/home/sikoravv/.config/goa-1.0
+/home/sikoravv/.ICEauthority
+/home/sikoravv/files/4.txt

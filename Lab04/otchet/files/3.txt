@@ -1,0 +1,20 @@
+total 17068
+1053501 lrwxrwxrwx  1 sikoravv sikoravv       40 Oct 31 17:18 2019 -> /home/sikoravv/structure/soft_links/2019
+1048980 -rw-rw-r--  1 sikoravv sikoravv     2530 Oct 31 17:55 commands.md
+1048612 drwxr-xr-x  2 sikoravv sikoravv     4096 Oct 14 19:09 Desktop
+1048616 drwxr-xr-x  3 sikoravv sikoravv     4096 Oct 26 09:57 Documents
+1048613 drwxr-xr-x  4 sikoravv sikoravv     4096 Nov  6 16:35 Downloads
+1055228 drwxrwxr-x  2 sikoravv sikoravv     4096 Nov  6 16:44 files
+1055153 -rw-rw-r--  1 sikoravv sikoravv        0 Oct 31 18:02 Github repository
+1050948 drwxrwxr-x  6 sikoravv sikoravv     4096 Oct 31 17:58 LAB
+1048617 drwxr-xr-x  2 sikoravv sikoravv     4096 Oct  5 08:52 Music
+1051272 drwxrwxr-x  3 sikoravv sikoravv     4096 Nov  6 16:59 otchet
+1051744 -rw-rw-r--  1 sikoravv sikoravv        0 Nov  6 16:36 otchet.md
+1048618 drwxr-xr-x  2 sikoravv sikoravv     4096 Oct 24 16:49 Pictures
+1052393 drwxrwxr-x  6 sikoravv sikoravv     4096 Oct 14 18:57 powerlevel10k
+1048615 drwxr-xr-x  2 sikoravv sikoravv     4096 Oct  5 08:52 Public
+1053839 drwxrwxr-x 10 sikoravv sikoravv     4096 Oct 31 17:24 structure
+1054350 -rw-rw-r--  1 sikoravv sikoravv 17416165 Oct 31 17:40 structure.zip
+1048614 drwxr-xr-x  2 sikoravv sikoravv     4096 Oct  5 08:52 Templates
+1048619 drwxr-xr-x  2 sikoravv sikoravv     4096 Oct  5 08:52 Videos
+1052894 drwxrwxr-x  8 sikoravv sikoravv     4096 Oct 14 19:11 zsh-syntax-highlighting
