@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "area": 1141748.0,
+        "population": 50882884,
+        "flag": "https://flagcdn.com/w320/co.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "area": 112492.0,
+        "population": 9904608,
+        "flag": "https://flagcdn.com/w320/hn.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "area": 109884.0,
+        "population": 11326616,
+        "flag": "https://flagcdn.com/w320/cu.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "area": 181034.0,
+        "population": 3473727,
+        "flag": "https://flagcdn.com/w320/uy.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "area": 406752.0,
+        "population": 7132530,
+        "flag": "https://flagcdn.com/w320/py.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Bolivia",
+        "capital": "Sucre",
+        "area": 1098581.0,
+        "population": 11673029,
+        "flag": "https://flagcdn.com/w320/bo.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Chile",
+        "capital": "Santiago",
+        "area": 756102.0,
+        "population": 19116209,
+        "flag": "https://flagcdn.com/w320/cl.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "area": 2780400.0,
+        "population": 45376763,
+        "flag": "https://flagcdn.com/w320/ar.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "area": 1964375.0,
+        "population": 128932753,
+        "flag": "https://flagcdn.com/w320/mx.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "area": 916445.0,
+        "population": 28435943,
+        "flag": "https://flagcdn.com/w320/ve.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "area": 1285216.0,
+        "population": 32971846,
+        "flag": "https://flagcdn.com/w320/pe.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Western Sahara",
+        "capital": "El Aaiún",
+        "area": 266000.0,
+        "population": 510713,
+        "flag": "https://flagcdn.com/w320/eh.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "area": 108889.0,
+        "population": 16858333,
+        "flag": "https://flagcdn.com/w320/gt.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Ecuador",
+        "capital": "Quito",
+        "area": 276841.0,
+        "population": 17643060,
+        "flag": "https://flagcdn.com/w320/ec.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "area": 505992.0,
+        "population": 47351567,
+        "flag": "https://flagcdn.com/w320/es.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "area": 130373.0,
+        "population": 6624554,
+        "flag": "https://flagcdn.com/w320/ni.png",
+        "language": "spanish"
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "area": 801590.0,
+        "population": 31255435,
+        "flag": "https://flagcdn.com/w320/mz.png",
+        "language": "portuguese"
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "area": 8515767.0,
+        "population": 212559409,
+        "flag": "https://flagcdn.com/w320/br.png",
+        "language": "portuguese"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "area": 1246700.0,
+        "population": 32866268,
+        "flag": "https://flagcdn.com/w320/ao.png",
+        "language": "portuguese"
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "area": 825615.0,
+        "population": 2540916,
+        "flag": "https://flagcdn.com/w320/na.png",
+        "language": "german"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "area": 357114.0,
+        "population": 83240525,
+        "flag": "https://flagcdn.com/w320/de.png",
+        "language": "german"
+    }
+]
